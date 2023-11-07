@@ -1,5 +1,3 @@
-scheduler-client/node_modules/**/*
+node_modules/**/*
+.angular/**/*
 .DS_Store
-DatabaseExport.zip
-schedulerXfer/.env
-schedulerApi/.env
