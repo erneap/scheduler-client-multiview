@@ -5,7 +5,7 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { HeaderComponent } from './header/header.component';
-import { MaterialModule } from './material/material.module';
+import { MaterialModule } from './material.module';
 import { HeaderMenuComponent } from './header/header-menu/header-menu.component';
 import { AppStateService } from './services/app-state.service';
 import { AuthService } from './services/auth.service';
